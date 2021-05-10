@@ -1,0 +1,75 @@
+h1 {
+    font-size:30px;
+    text-align:center;
+    }
+    h2{
+    font-size:20px;
+    font-family:cursive;
+    text-align:center;
+    }
+    body{
+    background-color:aquamarine;
+    text-align:center;
+    }
+    img{
+    width:100px;
+    border-radius:50%;
+    height:100px;
+    }
+    .Line {
+        height: 6px;
+        width: 500px;
+        background-color:blue;
+        margin: 8px auto;
+    }
+    p{
+    font-size:20px;
+    font-family:cursive;
+    }
+    .menu{
+    font-family: cursive;
+    font-size:20px;
+    float:right;
+    top:10px;
+    right:10px;
+    cursor:pointer;
+    color:black;
+    position:sticky;
+    }
+    li {
+      display: inline;
+    position: sticky;
+      top: 0;
+    }
+    .link:hover{
+    color:darkviolet;
+    background-color:purple;
+    font-size:25px;
+    }
+    #G{
+    text-align: center;
+    font-size:20px;
+    font-family:cursive;
+    }
+    #R{
+    text-align: center;
+    font-size:25px;
+    font-family:cursive;
+    }
+    #About{
+    background-color: cornflowerblue;
+    padding-bottom:20px;
+    }
+    #Work{
+    background-color:deeppink;
+    padding-bottom:20px;
+    }
+    #Contact{
+    background-color:deepskyblue;
+    padding-bottom:20px;
+    }
+
+    #The_Chainsmokers{
+      width:930px;
+      height:930px;
+    }
